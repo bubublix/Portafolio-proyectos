@@ -1,0 +1,104 @@
+main {
+    padding: 20px;
+}
+
+#me1{
+    border-radius: 100%;
+    width: 300px;
+    height: 300px;
+}
+
+#me2{
+    border-radius: 50%;
+    width: 450px;
+    height: 500px;
+}
+
+/* Encabezado */
+.one{
+    margin-right: 20px;
+    color: aliceblue;
+}
+.two{
+    margin-right: 20px;
+    color: aliceblue;
+}
+.three{
+    margin-right: 20px;
+    color: aliceblue;
+    
+}
+.four{
+    margin-right: 20px;
+    color: aliceblue;
+}
+/* FEncabezado */
+
+.work-descriptive{
+    text-align: center;
+    margin-left: 55px;
+}
+
+#app{
+    text-align: center;
+    color: rgb(112, 31, 112);
+    margin-left: 50px;
+}
+
+.name{
+    text-align: center;
+    margin-left: 40px;
+}
+
+#button-contact{
+    background-color: black;
+    color: aliceblue;
+    border: none;
+    margin-left: 50px;
+}
+
+.button-info{
+    margin-top: 100px;
+    
+}
+
+.description{
+    margin-top: 20px;
+    margin-left: 400PX;
+    margin-right: 400PX;
+}
+
+#credits-proyect{
+    text-align: center;
+    margin-top: 200px;
+}
+
+.Credits{
+    text-align: center;
+}
+
+/* Proyectos y certificados */
+#Santander{
+    width: 400px;
+    height: 400px;
+    margin-left: -30px;
+}
+
+.imgblanca{
+    width: 420px;
+    height: 410px;
+}
+
+.container-certificados{
+    margin-top: 500px;
+    text-align: start;
+    display: table;
+}
+
+.titlesan{
+    color: red;
+    font-size: medium;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
