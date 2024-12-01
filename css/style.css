@@ -1,6 +1,41 @@
+/* responsive */
 main {
     padding: 20px;
+    display: flexbox;
+    z-index: 1;
 }
+
+body {
+    font-size: 16px;
+}
+
+/* Para pantallas pequeñas (celulares) */
+@media (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+}
+
+/* Para pantallas medianas (tablets) */
+@media (min-width: 601px) and (max-width: 900px) {
+    body {
+        font-size: 15px;
+    }
+}
+
+/* Para pantallas grandes (PCs) */
+@media (min-width: 901px) {
+    body {
+        font-size: 16px;
+    }
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
 
 #me1{
     border-radius: 100%;
@@ -81,7 +116,7 @@ main {
 #Santander{
     width: 400px;
     height: 400px;
-    margin-left: -30px;
+    margin-left: -50px;
 }
 
 .imgblanca{
